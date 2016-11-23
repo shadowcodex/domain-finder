@@ -22,7 +22,7 @@ or
 
 Then download the actual program
 
-    wget https://github.com/SHADOWxCODEX/pydomainfinder/archive/master.zip
+    wget https://github.com/shadowcodex/domain-finder/archive/master.zip
     
     unzip master.zip
     
@@ -31,7 +31,7 @@ Use
 
 Run the program 
 
-    python pydomainfinder.py
+    python domainfinder.py
 
 1. The first prompt asks you for your targets acronym. For example "GGA".
 
